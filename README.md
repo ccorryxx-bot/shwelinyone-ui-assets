@@ -18,6 +18,7 @@ starting scaffold — add more as needed, following the same
 ```
 ui/
 ├── brand/    logo + wordmark (ရွှေလင်းယုန် hare mark, header assets)
+├── banner/   {n}.webp        (homepage hero banner slides, in display order)
 ├── avatar/   {n}.webp        (profile avatar picker)
 ├── payment/  {method}.webp   (kpay, wave)
 ├── footer/   {label}.webp
